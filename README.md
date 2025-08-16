@@ -3,6 +3,9 @@
 SectorRead is a **cross-platform disk imaging tool** that works on Windows / Linux / macOS.
 It creates a sector-by-sector copy of a selected physical disk into an `.img` file.
 
+<img width="657" height="197" alt="s" src="https://github.com/user-attachments/assets/ed0b1703-acd5-4724-9803-c4c662d071af" />
+
+
 ## Features
 
 * Cross-platform: supports Windows, Linux, and macOS
